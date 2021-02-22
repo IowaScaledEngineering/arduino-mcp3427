@@ -26,6 +26,12 @@ The Golden Rule:  When in doubt, check [the MCP3427 datasheet](https://ww1.micro
 
 -----
 
+### Library Installation
+
+The easiest way is to search for "I2C-MCP3427" in the Arduino Library manager.
+
+-----
+
 ### Library Functions and Class Methods
 
 This is the Arduino-compatible control library for the I2C-MCP3427.  
